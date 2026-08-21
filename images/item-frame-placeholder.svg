@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<rect x="10" y="10" width="180" height="180" fill="#8B5A2B" stroke="#5D3A1A" stroke-width="10"/>
+<rect x="40" y="40" width="120" height="120" fill="#D7CCC8"/>
+<text x="100" y="105" text-anchor="middle" font-size="18" font-family="monospace">Project</text></svg>
